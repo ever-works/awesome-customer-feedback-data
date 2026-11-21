@@ -1,0 +1,13 @@
+name: "Upvoty"
+description: "Feedback management platform with idea boards, roadmaps, and changelogs. Lets customers vote on features and see update status. Paid plans with a free trial."
+source_url: "https://upvoty.com/"
+category: "Feedback Boards & Voting"
+tags:
+  - "feedback-boards"
+  - "roadmaps"
+  - "changelog"
+  - "voting"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/upvoty.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://upvoty.com/>\n"
+updated_at: "2026-11-21 08:57"

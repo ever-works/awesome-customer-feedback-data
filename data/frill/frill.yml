@@ -1,0 +1,12 @@
+name: "Frill"
+description: "Customer feedback and product update platform with idea boards, roadmaps, and changelogs. Enables teams to collect feature requests and announce releases. Offers free and paid plans."
+source_url: "https://frill.co/"
+category: "Feedback Boards & Voting"
+tags:
+  - "feedback-boards"
+  - "roadmaps"
+  - "changelog"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/frill.co.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://frill.co/>\n"
+updated_at: "2026-11-21 08:57"

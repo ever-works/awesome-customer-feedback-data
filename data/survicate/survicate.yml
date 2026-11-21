@@ -1,0 +1,13 @@
+name: "Survicate"
+description: "In-app and website survey tool for collecting customer feedback at scale. Includes NPS, CSAT, and microsurveys with targeting rules. Freemium model with paid upgrades."
+source_url: "https://survicate.com/"
+category: "In-App Feedback Widgets"
+tags:
+  - "in-app-feedback"
+  - "surveys"
+  - "widget"
+  - "api"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/survicate.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://survicate.com/>\n"
+updated_at: "2026-11-21 08:57"

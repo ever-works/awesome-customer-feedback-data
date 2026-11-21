@@ -1,0 +1,13 @@
+name: "Roadmunk"
+description: "Roadmap software for visualizing product strategy and sharing public or internal roadmaps. Supports timeline views, dependencies, and stakeholder collaboration. Paid plans with a free trial."
+source_url: "https://roadmunk.com/"
+category: "Public Roadmaps"
+tags:
+  - "public-roadmaps"
+  - "product-roadmaps"
+  - "timeline"
+  - "api"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/roadmunk.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://roadmunk.com/>\n"
+updated_at: "2026-11-21 08:57"

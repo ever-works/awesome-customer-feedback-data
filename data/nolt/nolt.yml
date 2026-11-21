@@ -1,0 +1,13 @@
+name: "Nolt"
+description: "Simple feedback board tool for collecting feature requests and user votes. Includes public roadmaps and custom domains. Targets small and medium businesses with paid plans."
+source_url: "https://nolt.io/"
+category: "Feedback Boards & Voting"
+tags:
+  - "feedback-boards"
+  - "voting"
+  - "roadmaps"
+  - "api"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/nolt.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://nolt.io/>\n"
+updated_at: "2026-11-21 08:57"

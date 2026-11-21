@@ -1,0 +1,12 @@
+name: "UserVoice"
+description: "Enterprise feedback and helpdesk platform that collects user suggestions through forums and support tickets. Includes feedback portals, voting, and analytics for product teams. Pricing is quote-based for enterprise customers."
+source_url: "https://www.uservoice.com/"
+category: "Feedback Boards & Voting"
+tags:
+  - "feedback-forums"
+  - "enterprise"
+  - "helpdesk"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.uservoice.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.uservoice.com/>\n"
+updated_at: "2026-11-21 08:57"

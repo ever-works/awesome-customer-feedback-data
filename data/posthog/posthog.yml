@@ -1,0 +1,13 @@
+name: "PostHog"
+description: "Open source product analytics platform with feature flags, session replay, and surveys. Can be self-hosted or used as a managed cloud service. MIT licensed."
+source_url: "https://posthog.com/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "product-analytics"
+  - "surveys"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/posthog.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://posthog.com/>\n- Repository: <https://github.com/PostHog/posthog>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 08:57"

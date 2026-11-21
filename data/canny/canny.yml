@@ -1,0 +1,13 @@
+name: "Canny"
+description: "Customer feedback board and feature voting platform for product teams. Captures feature requests, prioritizes them via voting, and closes the loop with changelogs. Offers a free plan and paid tiers."
+source_url: "https://canny.io/"
+category: "Feedback Boards & Voting"
+tags:
+  - "feedback-boards"
+  - "voting"
+  - "changelog"
+  - "api"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/canny.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://canny.io/>\n"
+updated_at: "2026-11-21 08:57"

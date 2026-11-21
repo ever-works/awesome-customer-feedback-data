@@ -1,0 +1,12 @@
+name: "Olvy"
+description: "AI feedback analytics and changelog platform that aggregates user feedback from multiple sources. Automatically tags insights and publishes product updates. Offers free and paid plans."
+source_url: "https://olvy.co/"
+category: "AI Feedback Analytics"
+tags:
+  - "ai-powered"
+  - "feedback-analytics"
+  - "changelog"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/olvy.co.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://olvy.co/>\n"
+updated_at: "2026-11-21 08:57"

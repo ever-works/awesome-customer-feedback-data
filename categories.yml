@@ -1,0 +1,12 @@
+- id: feedback-boards-and-voting
+  name: "Feedback Boards & Voting"
+- id: public-roadmaps
+  name: "Public Roadmaps"
+- id: ai-feedback-analytics
+  name: "AI Feedback Analytics"
+- id: in-app-feedback-widgets
+  name: "In-App Feedback Widgets"
+- id: open-source
+  name: "Open Source"
+- id: product-management-suites
+  name: "Product Management Suites"

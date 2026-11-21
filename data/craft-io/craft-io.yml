@@ -1,0 +1,13 @@
+name: "Craft.io"
+description: "Product management platform for roadmap planning, feature prioritization, and feedback centralization. Used by product teams to define strategy and execute releases. Paid plans with a free trial."
+source_url: "https://craft.io/"
+category: "Product Management Suites"
+tags:
+  - "product-management"
+  - "roadmaps"
+  - "prioritization"
+  - "api"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/craft.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://craft.io/>\n"
+updated_at: "2026-11-21 08:57"

@@ -1,0 +1,13 @@
+name: "Fider"
+description: "Open source feedback platform for collecting and voting on feature requests. Self-hostable with a web interface and API for community-driven product planning. Licensed under AGPL."
+source_url: "https://fider.io/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "feedback-boards"
+  - "voting"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/fider.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://fider.io/>\n- Repository: <https://github.com/fider/fider>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 08:57"

@@ -1,0 +1,13 @@
+name: "Beamer"
+description: "In-app changelog and feedback widget for announcing updates and collecting user reactions. Integrates into web and mobile applications. Freemium and paid plans."
+source_url: "https://getbeamer.com/"
+category: "In-App Feedback Widgets"
+tags:
+  - "in-app-feedback"
+  - "changelog"
+  - "widget"
+  - "announcements"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/getbeamer.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://getbeamer.com/>\n"
+updated_at: "2026-11-21 08:57"

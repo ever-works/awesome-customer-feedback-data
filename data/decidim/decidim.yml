@@ -1,0 +1,13 @@
+name: "Decidim"
+description: "Open source participatory democracy platform for citizen proposals, debates, and voting. Self-hostable framework for community feedback and decision-making. AGPL licensed."
+source_url: "https://decidim.org/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "community-feedback"
+  - "voting"
+  - "civic-tech"
+icon_url: "https://icons.duckduckgo.com/ip3/decidim.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://decidim.org/>\n- Repository: <https://github.com/decidim/decidim>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 08:57"

@@ -1,0 +1,13 @@
+name: "Featurebase"
+description: "Feedback and feature request platform with voting boards, public roadmaps, and changelogs. Helps SaaS teams collect and prioritize user input. Offers a free plan and paid subscriptions."
+source_url: "https://featurebase.com/"
+category: "Feedback Boards & Voting"
+tags:
+  - "feedback-boards"
+  - "roadmaps"
+  - "changelog"
+  - "api"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/featurebase.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://featurebase.com/>\n"
+updated_at: "2026-11-21 08:57"

@@ -1,0 +1,13 @@
+name: "Airfocus"
+description: "Product management platform for prioritization, roadmaps, and feedback aggregation. Supports scoring frameworks and public portal sharing. Paid plans with a free trial."
+source_url: "https://airfocus.com/"
+category: "Product Management Suites"
+tags:
+  - "product-management"
+  - "prioritization"
+  - "roadmaps"
+  - "api"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/airfocus.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://airfocus.com/>\n"
+updated_at: "2026-11-21 08:57"

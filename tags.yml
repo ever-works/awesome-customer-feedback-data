@@ -1,0 +1,68 @@
+- id: feedback-boards
+  name: "Feedback Boards"
+- id: voting
+  name: "Voting"
+- id: changelog
+  name: "Changelog"
+- id: api
+  name: "API"
+- id: freemium
+  name: "Freemium"
+- id: feedback-forums
+  name: "Feedback Forums"
+- id: enterprise
+  name: "Enterprise"
+- id: helpdesk
+  name: "Helpdesk"
+- id: roadmaps
+  name: "Roadmaps"
+- id: product-management
+  name: "Product Management"
+- id: prioritization
+  name: "Prioritization"
+- id: paid
+  name: "Paid"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: feedback-widget
+  name: "Feedback Widget"
+- id: roadmap
+  name: "Roadmap"
+- id: ai-powered
+  name: "AI-Powered"
+- id: feedback-analytics
+  name: "Feedback Analytics"
+- id: in-app-feedback
+  name: "In-App Feedback"
+- id: widget
+  name: "Widget"
+- id: bug-reporting
+  name: "Bug Reporting"
+- id: public-roadmaps
+  name: "Public Roadmaps"
+- id: product-roadmaps
+  name: "Product Roadmaps"
+- id: timeline
+  name: "Timeline"
+- id: surveys
+  name: "Surveys"
+- id: bug-tracking
+  name: "Bug Tracking"
+- id: announcements
+  name: "Announcements"
+- id: product-analytics
+  name: "Product Analytics"
+- id: community-feedback
+  name: "Community Feedback"
+- id: civic-tech
+  name: "Civic Tech"
+- id: idea-management
+  name: "Idea Management"
+- id: feedback-tracking
+  name: "Feedback Tracking"
+- id: feature-requests
+  name: "Feature Requests"
+- id: integrations
+  name: "Integrations"

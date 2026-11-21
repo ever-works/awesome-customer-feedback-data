@@ -1,0 +1,13 @@
+name: "Sleekplan"
+description: "Feedback widget, roadmap, and changelog tool for websites and apps. Collects user suggestions and displays release updates. Includes a free tier and paid plans."
+source_url: "https://sleekplan.com/"
+category: "Feedback Boards & Voting"
+tags:
+  - "feedback-widget"
+  - "roadmap"
+  - "changelog"
+  - "api"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/sleekplan.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://sleekplan.com/>\n"
+updated_at: "2026-11-21 08:57"
